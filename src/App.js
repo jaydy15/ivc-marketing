@@ -5,6 +5,7 @@ import './App.css';
 import Navbars from './components/layouts/Navbar';
 import Carousels from './components/layouts/Carousel';
 import Card from './components/layouts/Card';
+import CardItem from './components/layouts/CardItem';
 
 function App() {
   return (
@@ -54,6 +55,40 @@ function App() {
             />
           </div>
         </div>
+        {/* END OF CARDS */}
+        <hr />
+        <h2
+          className='display-4 text-center'
+          style={{ textDecoration: 'underline' }}>
+          Kathryn's Choice
+        </h2>
+        <div className='row mt-5'>
+          <CardItem
+            title='ANNA-SUI'
+            img='https://www.idealvision.ph/wp-content/uploads/2020/03/ANNA-SUI.jpg'
+          />
+          <CardItem
+            title='NEW-BALANCE-NB05188-C04'
+            img='https://www.idealvision.ph/wp-content/uploads/2020/03/NEW-BALANCE-NB05188-C04.jpg'
+          />
+          <CardItem
+            title='POLICE'
+            img='https://www.idealvision.ph/wp-content/uploads/2020/03/POLICE.jpg'
+          />
+          <CardItem
+            title='ACUVUE-DEFINE-CL'
+            img='https://www.idealvision.ph/wp-content/uploads/2019/04/ACUVUE-DEFINE-CL.jpg'
+          />
+          <CardItem
+            title='ANTEPARA-CL'
+            img='https://www.idealvision.ph/wp-content/uploads/2020/05/ANTEPARA-CL.jpg'
+          />
+          <CardItem
+            title='FRESHLOOK-CL'
+            img='https://www.idealvision.ph/wp-content/uploads/2019/05/FRESHLOOK-CL.jpg'
+          />
+        </div>
+        <div>Footer</div>
       </div>
     </Fragment>
   );
