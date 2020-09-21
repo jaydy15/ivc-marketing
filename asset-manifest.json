@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ivc-marketing/static/css/main.dd193482.chunk.css",
-    "main.js": "/ivc-marketing/static/js/main.d89b1723.chunk.js",
-    "main.js.map": "/ivc-marketing/static/js/main.d89b1723.chunk.js.map",
+    "main.js": "/ivc-marketing/static/js/main.4dea4d26.chunk.js",
+    "main.js.map": "/ivc-marketing/static/js/main.4dea4d26.chunk.js.map",
     "runtime-main.js": "/ivc-marketing/static/js/runtime-main.18cdb231.js",
     "runtime-main.js.map": "/ivc-marketing/static/js/runtime-main.18cdb231.js.map",
     "static/css/2.11829350.chunk.css": "/ivc-marketing/static/css/2.11829350.chunk.css",
     "static/js/2.b007bef3.chunk.js": "/ivc-marketing/static/js/2.b007bef3.chunk.js",
     "static/js/2.b007bef3.chunk.js.map": "/ivc-marketing/static/js/2.b007bef3.chunk.js.map",
     "index.html": "/ivc-marketing/index.html",
-    "precache-manifest.7c0e54f2d566428bd6b77d976898f187.js": "/ivc-marketing/precache-manifest.7c0e54f2d566428bd6b77d976898f187.js",
+    "precache-manifest.5b4a29206f011aff16d13cddfc09ee40.js": "/ivc-marketing/precache-manifest.5b4a29206f011aff16d13cddfc09ee40.js",
     "service-worker.js": "/ivc-marketing/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/ivc-marketing/static/css/2.11829350.chunk.css.map",
     "static/css/main.dd193482.chunk.css.map": "/ivc-marketing/static/css/main.dd193482.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.11829350.chunk.css",
     "static/js/2.b007bef3.chunk.js",
     "static/css/main.dd193482.chunk.css",
-    "static/js/main.d89b1723.chunk.js"
+    "static/js/main.4dea4d26.chunk.js"
   ]
 }
