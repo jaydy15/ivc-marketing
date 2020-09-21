@@ -9,6 +9,7 @@ import CardItem from './components/layouts/CardItem';
 import ItemsCard from './components/ItemsCard';
 import { Navbar } from 'react-bootstrap';
 import KBChoice from './components/KBChoice';
+import ShopBrands from './components/ShopBrands';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Carousels />
         <ItemsCard />
         <KBChoice />
+        <ShopBrands />
       </div>
     </Fragment>
   );
