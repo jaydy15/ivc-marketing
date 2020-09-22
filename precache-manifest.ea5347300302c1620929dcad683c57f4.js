@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "df71a69f234986fa743ad7cfafecb24c",
+    "revision": "4db34ce497fb312c28cffbaceae44345",
     "url": "/ivc-marketing/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ivc-marketing/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "57dfc3961d11f05843c2",
+    "revision": "33b5b2694cc0e7c0c597",
     "url": "/ivc-marketing/static/css/main.dd193482.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ivc-marketing/static/js/2.b007bef3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "57dfc3961d11f05843c2",
-    "url": "/ivc-marketing/static/js/main.4dea4d26.chunk.js"
+    "revision": "33b5b2694cc0e7c0c597",
+    "url": "/ivc-marketing/static/js/main.6e39f8e7.chunk.js"
   },
   {
     "revision": "0bbba38ff325615f2586",
