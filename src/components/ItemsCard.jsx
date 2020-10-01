@@ -51,9 +51,6 @@ const ItemsCard = () => {
       </div>
     </div>
   );
-  {
-    /* END OF CARDS */
-  }
 };
 
 export default ItemsCard;

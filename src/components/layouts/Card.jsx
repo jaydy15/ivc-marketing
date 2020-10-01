@@ -18,7 +18,7 @@ const Card = ({ img, title }) => {
         <h5 className='card-title' style={{ color: 'white' }}>
           {title}
         </h5>
-        <a href='#' className='btn btn-primary'>
+        <a href='#!' className='btn btn-primary'>
           Shop Now
         </a>
       </div>
